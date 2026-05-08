@@ -17,12 +17,9 @@ nacholen
 nacholen
 nacholen
 nacholen
+# Lernperiode 4
 
-
-bimbim
-
-heheheheheh
-
-jsjsj
-
-
+### 08.05.2026
+mich in c# verbessern
+mein c# code verbessern sodas es gut funktioniert
+Powershell basics lernen
