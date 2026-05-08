@@ -20,6 +20,11 @@ nacholen
 # Lernperiode 4
 
 ### 08.05.2026
+Ziele:
 mich in c# verbessern
 mein c# code verbessern sodas es gut funktioniert
 Powershell basics lernen
+
+Ablauf vom Heutigen Tag:
+PowerShell basics geübt mit Youtube
+C# app verbessert (geht immernoch nicht gantz)
