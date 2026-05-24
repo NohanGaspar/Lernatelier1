@@ -40,28 +40,28 @@ try
 
             if (rnd_number == 0)
             {
-                Console.WriteLine("You beg your sugar daddy for money and he gives you (+2000)");
+                Console.WriteLine(" (+2000)");
                 balance += 2000;
                 //continue;
             }
 
             else if (rnd_number == 1)
             {
-                Console.WriteLine("You beg your sugar daddy for money but he only gives you a little because you weren't a good kitten (+100)");
+                Console.WriteLine(" (+100)");
                 balance += 100;
                 //continue;
             }
 
             else if (rnd_number == 2)
             {
-                Console.WriteLine("You beg your sugar daddy for money but he slaps you in the face because you cheated on him with Gojo (-300)");
+                Console.WriteLine(" (-300)");
                 balance -= 300;
                 //continue;
             }
 
             else if (rnd_number == 3)
             {
-                Console.WriteLine("You beg your Aaron for money but he steals you wallet (-500)");
+                Console.WriteLine(" (-500)");
                 balance -= 500;
                 //continue;
             }
