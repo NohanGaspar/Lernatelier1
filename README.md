@@ -53,3 +53,11 @@ meine eigene Powershell App weitermachen
 
 Ablauf vom Heutigen Tag:
 PowerShell App angefangen
+
+### 12.06.2026
+Ziele:
+Meine CSS fertigmachen
+Mein Powershell code Fertigmachen
+
+Ablauf vom Heutigen Tag:
+PowerShell App weitergemacht
