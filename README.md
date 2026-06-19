@@ -61,3 +61,11 @@ Mein Powershell code Fertigmachen
 
 Ablauf vom Heutigen Tag:
 PowerShell App weitergemacht
+
+### 19.06.2026
+Ziele:
+Webseite Hosten
+Powershell cod automatisieren
+
+Ablauf vom Heutigen Tag:
+HTML, CSS und Powershell cod abgeschlossen
