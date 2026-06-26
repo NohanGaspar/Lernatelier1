@@ -69,3 +69,12 @@ Powershell cod automatisieren
 
 Ablauf vom Heutigen Tag:
 HTML, CSS und Powershell cod abgeschlossen
+
+### 26.06.2026
+Ablauf vom Heutigen Tag:
+Godot Engine für C# vorbereitt
+
+Ziele:
+Godot Projekt anfangen
+
+
