@@ -28,6 +28,7 @@ Powershell basics lernen
 Ablauf vom Heutigen Tag:
 PowerShell basics geübt mit Youtube
 C# app verbessert (geht immernoch nicht gantz)
+<<<<<<< HEAD
 
 ### 22.03.2026
 Ziele:
@@ -36,3 +37,5 @@ css und html lernen indehm ich eine schöne Webseite erstelle
 Ablauf vom Heutigen Tag:
 PowerShell basics geübt (Session und Code)
 C# app verbessert (es ist eigentlich fertig und es funktioniert)
+=======
+>>>>>>> 36d5d616821adae0c37ce2196e6094555d18cec7
