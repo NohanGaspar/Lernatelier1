@@ -48,21 +48,21 @@ Heute habe ich mein C# spiel weitergemacht indehm ich 1 switch case eingebaute h
 ### Planung 28.08.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] mein bissheriges Code verbessern mit einen switch case oder etwas anderes
+- [X] mein bissheriges Code verbessern mit einen switch case oder etwas anderes
 - [X] 1 Methode erstellen und einbauen
-- [ ] mein Spiel projekt weiter ausbauen/planen mit 2 andere Ideen die ich Notieren werde 
+- [X] mein Spiel projekt weiter ausbauen/planen mit 2 andere Ideen die ich Notieren werde 
 
-(Heute habe ich... (50-100 Wörter))
+Heute habe ich mein C# spiel weitergemacht indehm ich 1 Methode erstellt habe für die Schadensberechnung und mehrere Objecte für die Orte, Gegner und Items. Ich habe auch an meiner Lernperiode gearbeitet dammit meine Ziele/Reflektion richtig gespeichert sind.
 
 
 ### Planung 4.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [ ] einen weiteren switch case einbauen
+- [X] 1 Methode erstellen und einbauen dammit ich zum nächsten Location kann gehen
+- [X] mein Spiel projekt weiter ausbauen/planen mit 2 andere Ideen die ich Notieren werde
 
-(Heute habe ich... (50-100 Wörter))
+Heute habe ich meine C# classen in separate (Orte) gespeichert, 2 Andere ideen für den Aufbau vom spiel aufgeschreiben und die strücktur vom Code allgemein verbessert. 
 
 
 ### Planung 11.09.2026
