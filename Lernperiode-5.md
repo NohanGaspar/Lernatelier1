@@ -68,19 +68,19 @@ Heute habe ich meine C# classen in separate (Orte) gespeichert, 2 Andere ideen f
 ### Planung 11.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [x] Eine Klasse Dish einbauen und benutzen
+- [x] Eine Methode in der Klasse Dish einbauen (gibt den Nährwert zurück indehm es die nährwerte von den Objekten ingredient + rechnet)
+- [ ] 1 Lösung finden und aufschreiben (Notes) zum nur gezielte Objekte von einer Liste benutzen mit new Random
 
-(Heute habe ich... (50-100 Wörter))
+Heute habe ich an meiner neuen Klasse Dish gearbeitet indehm ich Objekte von dieser Klasse implementiert habe. Das Ziel währe am Schluss das ich mit der Taste C kochen kann mit mehreren zutaten. Der Spieler könnte dan diese Gerichte essen um sich zu (heilen)
 
 
 ### Planung 18.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [ ] einen weiteren switch case einbauen
+- [ ] Kochen Fertigmachen
+- [ ] 1 Lösung finden und aufschreiben (Notes) zum nur gezielte Objekte von einer Liste benutzen mit new Random
 
 (Heute habe ich... (50-100 Wörter))
 
