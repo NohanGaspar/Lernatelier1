@@ -78,19 +78,19 @@ Heute habe ich an meiner neuen Klasse Dish gearbeitet indehm ich Objekte von die
 ### Planung 18.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] einen weiteren switch case einbauen
+- [X] einen weiteren switch case einbauen
 - [ ] Kochen Fertigmachen
-- [ ] 1 Lösung finden und aufschreiben (Notes) zum nur gezielte Objekte von einer Liste benutzen mit new Random
+- [X] 1 Lösung finden und aufschreiben (Notes) zum nur gezielte Objekte von einer Liste benutzen mit new Random
 
-(Heute habe ich... (50-100 Wörter))
+Heute habe ich ungefähr 20 neue Objekte erstellt und einen neuen atribut in Location nahmens Description um die Beschreibung automatisch in der Konsole aufzuruffen an der stellen von meinem switsh case. Ich habe auch an der algeminen Strucktur meines Codes gearbeitet dammit ich auch locations habe ohne Monster. Ich kann auch mit gezielte zufällige locations das Spiel anfangen dank einer liste mit possibleLocations.
 
 
 ### Planung 25.08.2024
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [ ] Level 3 objekte einbauen
+- [ ] Kochen Fertigmachen
+- [ ] sachen aufschreiben (planung)
 
 (Heute habe ich... (50-100 Wörter))
 
