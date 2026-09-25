@@ -88,12 +88,11 @@ Heute habe ich ungefähr 20 neue Objekte erstellt und einen neuen atribut in Loc
 ### Planung 25.08.2024
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Level 3 objekte einbauen
+- [X] Level 3 objekte einbauen
 - [ ] Kochen Fertigmachen
-- [ ] sachen aufschreiben (planung)
+- [X] sachen aufschreiben (planung)
 
-(Heute habe ich... (50-100 Wörter))
-
+Heute habe ich 20 weitere Objekte + 5 neue Attribute eingebaut und Notzitzen gemacht zu was ich als Nächstes machen werde (in den Ferien)
 
 ## Lernperiode Reflexion
-(In dieser Lernperiode habe ich... (100-150 Wörter))
+In dieser Lernperiode habe ich gelernt wie man Methoden, Atribute, Objekte, Funktionen, Interfaces, Polimorfie und vererbung benutzt in C# bei der Objektorientierten Programierung. Ich bin nicht gantz fertig geworden mit all dem das ich machen wollte aber es ist nicht schlimm da mein Ziel war vorallem Objektorientierten Programierung zu lernen. Ich werde in den Ferien versuchen diesen Projekt fertig zu machen. Ich finde ich habe ein grossen Teil meiner Ziele erreicht und meine Lernperioden Reflexion hat sich meiner Meinung nach deutlich verbessert
