@@ -1,10 +1,4 @@
 # Lern-Periode 6
-<!--
-5.  Erstellen Sie Platzhalter für die Tagesplanungen der Lernperiode.
-6.  Planen Sie den ersten Arbeitstag.
-7.  Löschen Sie allfällige Anweisungs-Blöcke, die Sie nicht mehr haben wollen.
-8.  Speichern Sie die Datei und publizieren Sie sie (`git push`).
--->
 
 - Name: Nohan Gaspar
 - Zeitraum: 23.10.2026 bis 18.12.2026
@@ -60,8 +54,8 @@ Beispiele:
 - [x] erledigte Aufgabe
 -->
 
-- [ ] die Funktion Keyreading fertig aufteilen in mindestens 1 andere Funktion
-- [ ] den Fehler beheben das das Spiel nicht aufhört wenn die currentlayer == 7
+- [x] die Funktion Keyreading fertig aufteilen in mindestens 1 andere Funktion
+- [x] den Fehler beheben das das Spiel nicht aufhört wenn die currentlayer == 7
 - [ ] Den Logikfehler in der Combat Funktion beheben
 
 #### Tagesreflexion
@@ -72,7 +66,7 @@ Nicht wiederholen, was die Checkboxen schon aussagen.
 Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
 -->
 
-...Ihr Text...
+Heute habe ich einen Logikfehler in der Spielschleife behoben einen Sieg Szenario (message) eingebaut falls man es schaft das Spiel fertigzuspielen. Ich habe auch den Code nach Logikfehler und exeptions geprüft. Am Schluss habe ich noch geplant wie ich meine Combat Aethode ausbaunen kann.
 
 
 ### Planung 06.11.2026
@@ -82,9 +76,9 @@ Beispiele:
 - [x] erledigte Aufgabe
 -->
 
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
+- [ ] Die Klasse Boss.cs weiter ausbauen mit eine Attack Methode die anders funktioniert als die Monster Klasse.
+- [ ] eine Methode einbauen dammit ich bei gezielte Locations Objekte die Random reinenfolge überschreiben cann (warscheinlich mit switch case).
+- [ ] Combat Methode Fertig ausbauen dammit es auch mit Boss.cs auch funktioniert.
 
 #### Tagesreflexion
 <!--
