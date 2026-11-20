@@ -143,9 +143,9 @@ Beispiele:
 - [x] erledigte Aufgabe
 -->
 
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
+- [ ] [x] Die Minispiel Methode in der Klasse Relic fertig auftstellen
+- [ ] Die Klasse Boss.cs weiter ausbauen mit eine Attack Methode die anders funktioniert als die Monster Klasse. (Warscheinlich keine Zeit).
+- [ ] wenn noch zeit übrig noch nächsten Projekt planen.
 
 #### Tagesreflexion
 <!--
