@@ -11,6 +11,7 @@ M320: ?
 M231: 6
 M426: ?
 M346v3: ?
+165: ?
 
 ### Veränderungen
 Ich möchte weniger Schreibfehler in Planung haben und asführlichere ziele formulieren
@@ -20,8 +21,8 @@ C# Consolenspeil fertigmachen
 C# weiterlernen mit API keys oder Pyton projekt starten zum pyton lernen
 
 ### Generelle Ziele
-in der ersten hälfte dieser Lernperiode werde ich meine c# skils verbessern indem ich mein C# Spiel von der vorherigen Lernperiode fertigmache
-in der zweiten Hälfte dieser Lernperiode werde ich einen neuen C# Projekt mit API keys anfangen oder einen neuen Pyton Projekt anfangen zum Python basics lernen
+In der ersten hälfte dieser Lernperiode werde ich meine c# skils verbessern indem ich mein C# Spiel von der vorherigen Lernperiode fertigmache
+Wenn noch Zeit übrig ist werde ich in dieser Lernperiode einen neuen C# Projekt mit API keys anfangen oder einen neuen Pyton Projekt anfangen zum Python basics lernen
 
 ## Tagesplanungen
 
@@ -77,8 +78,8 @@ Beispiele:
 -->
 
 - [ ] Die Klasse Boss.cs weiter ausbauen mit eine Attack Methode die anders funktioniert als die Monster Klasse.
-- [ ] eine Methode einbauen dammit ich bei gezielte Locations Objekte die Random reinenfolge überschreiben cann (warscheinlich mit switch case).
-- [ ] Combat Methode Fertig ausbauen dammit es auch mit Boss.cs auch funktioniert.
+- [x] eine Methode einbauen dammit ich bei gezielte Locations Objekte die Random reinenfolge überschreiben cann (warscheinlich mit switch case).
+- [x] Combat Methode Fertig ausbauen dammit es auch mit Boss.cs auch funktioniert.
 
 #### Tagesreflexion
 <!--
@@ -88,7 +89,7 @@ Nicht wiederholen, was die Checkboxen schon aussagen.
 Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
 -->
 
-...Ihr Text...
+Heute habe ich die Logik für den Wechsel zwischen den Layern verbessert, damit der Spieler in Layer 5 und 6 nicht einfach weitergehen kann. Dabei hatte ich Schwierigkeiten mit den Bedingungen && und ||, weil ich zuerst den falschen Operator benutzt habe. Ich habe auch dafür gesorgt, dass eine Location immer als Letztes erscheint. Am Schluss habe ich meinen Code getestet und überprüft, ob die Bedingungen richtig funktionieren.
 
 
 ### Planung 13.11.2026
@@ -98,9 +99,9 @@ Beispiele:
 - [x] erledigte Aufgabe
 -->
 
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
+- [x] Eine neue Methode erstellen für die Klasse Relic
+- [x] Den Logikfehler in der Combat Funktion beheben
+- [x] Mindestens 2 Videos anschauen zum Thema Design Paterns in C#
 
 #### Tagesreflexion
 <!--
@@ -110,7 +111,7 @@ Nicht wiederholen, was die Checkboxen schon aussagen.
 Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
 -->
 
-...Ihr Text...
+Heute habe angefangen ich eine neue Methode für die Klasse Relic aufzubauen, dammit es zu einer art Minispiel wird. Ich habe auch einen kleinen Logikfehler in meiner wichtigsten Methode Combat gelöst. Zum Schlus habe ich mich noch mit dem Neuen Thema eines Modoles beschäftigt: Design Paterns (C#). (3 Videos geschaut und Notitzen geschrieben)
 
 
 ### Planung 20.11.2026
@@ -120,9 +121,9 @@ Beispiele:
 - [x] erledigte Aufgabe
 -->
 
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
+- [x] Die Minispiel Methode in der Klasse Relic fertig auftstellen (oder zumindest zur hälfte fertig).
+- [x] Ein Beispielscode zum Design Patern: Observer Pater fertig erstellen.
+- [ ] Die Klasse Boss.cs weiter ausbauen mit eine Attack Methode die anders funktioniert als die Monster Klasse. (Warscheinlich keine Zeit).
 
 #### Tagesreflexion
 <!--
@@ -132,7 +133,7 @@ Nicht wiederholen, was die Checkboxen schon aussagen.
 Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
 -->
 
-...Ihr Text...
+Heute habe ich die neue Relic Methode fast fertig erstellt und der Ablauf meiner Spielschleife neu organisiert. Ich habe lange gebraucht um den Design Patern zu verstehen und in C# umzusetzen aber ich glaube ich habe es ziemlich gut implementiert.
 
 
 ### Planung 27.11.2026
